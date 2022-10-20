@@ -7,13 +7,15 @@
 
 - 🌱 I’m currently learning **C#,.NET Core, Python**
 
-- 👨‍💻 All of my projects are available at [github.com/ozmen1](https://www.github.com/ozmen1)
+- 👨‍💻 All of my projects are available at [github.com/ozmen1](github.com/ozmen1)
 
-- 📝 I regularly write articles on [keremozmen.com.tr](https://www.keremozmen.com.tr)
+- 📝 I regularly write articles on [keremozmen.com.tr](keremozmen.com.tr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/keremozmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keremozmen" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11262744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11262744" height="30" width="40" /></a>
+<a href="https://medium.com/@ozmen1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ozmen1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
