@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **C#,.NET Core, Python**
 
-- 👨‍💻 All of my projects are available at [github.com/ozmen1]
+- 👨‍💻 All of my projects are available at [github.com/ozmen1](https://www.github.com/ozmen1)
 
-- 📝 I regularly write articles on [keremozmen.com.tr]
+- 📝 I regularly write articles on [keremozmen.com.tr](https://www.keremozmen.com.tr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
