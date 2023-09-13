@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozmen1&label=Profile%20views&color=0e75b6&style=flat" alt="ozmen1" /> </p>
 
-- 🔭 I’m currently working on [Training Projects](https://github.com/ozmen1/NBUY)
+[- 🔭 I’m currently working on [Training Projects](https://github.com/ozmen1/NBUY)
 
 - 🌱 I’m currently learning **C#,.NET Core, Python**
 
-- 👨‍💻 All of my projects are available at [github.com/ozmen1](github.com/ozmen1)
+- 👨‍💻 All of my projects are available at [github.com/ozmen1](github.com/ozmen1)](url)
 
 - 📝 I regularly write articles on [keremozmen.com.tr](keremozmen.com.tr)
 
